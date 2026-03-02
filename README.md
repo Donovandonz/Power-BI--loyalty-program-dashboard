@@ -91,20 +91,6 @@ The top member (ID: 689839) earned **268,287 points** across 90 flights with an 
 
 ---
 
-## 📊 Power BI Dashboards
-
-The project includes 5 interactive Power BI dashboards:
-
-| Dashboard | Description |
-|-----------|-------------|
-| **Executive Summary** | High-level KPIs and program performance |
-| **Member Behavior** | Demographics, segmentation, flight patterns |
-| **Retention & Churn** | Churn analysis, member lifetime |
-| **Points Economics** | Points earning, redemption, liability |
-| **Geographic Analysis** | Provincial distribution, regional CLV |
-
----
-
 ## 💡 Insights & Recommendations
 
 1. **Increase Redemption Rate** (currently only 1.5%)
@@ -259,6 +245,20 @@ The analysis revealed a clear segmentation pattern:
 The divorced segment, despite being the smallest, shows the highest engagement rate (88.6% active), suggesting this group finds exceptional value in the loyalty program. This presents an opportunity for targeted retention campaigns and specialized offerings.
 
 **Key Takeaway**: The 1.5% redemption rate represents both a problem and an opportunity - solving it could transform member engagement and program profitability.
+
+---
+
+## 📊 Power BI Dashboards
+
+The project includes 5 interactive Power BI dashboards:
+
+| Dashboard | Description |
+|-----------|-------------|
+| **Executive Summary** | High-level KPIs and program performance |
+| **Member Behavior** | Demographics, segmentation, flight patterns |
+| **Retention & Churn** | Churn analysis, member lifetime |
+| **Points Economics** | Points earning, redemption, liability |
+| **Geographic Analysis** | Provincial distribution, regional CLV |
 
 ---
 
